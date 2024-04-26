@@ -28,6 +28,7 @@ var rootFlags struct {
 
 // Leaving a test comment.
 // And updating it.
+// One more.
 
 var rootCmd = &cobra.Command{
 	Use: "av",
