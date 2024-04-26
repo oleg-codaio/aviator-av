@@ -26,6 +26,8 @@ var rootFlags struct {
 	Directory string
 }
 
+// Leaving a test comment.
+
 var rootCmd = &cobra.Command{
 	Use: "av",
 
